@@ -164,6 +164,11 @@ Books:
 >
 > The environment Rowling created is completely separate from reality yet also intimately connected to it. While the fantasy land of Narnia is an alternative universe and the Lord of the Rings‍ '​ Middle-earth a mythic past, the wizarding world of Harry Potter exists in parallel within the real world and contains magical versions of the ordinary elements of everyday life. Many of its institutions and locations are recognizable, such as London. It comprises a fragmented collection of overlooked hidden streets, ancient pubs, lonely country manors and secluded castles that remain invisible to the Muggle population.
 
+#### [Memory, Sorrow, and Thorn](https://en.wikipedia.org/wiki/Memory,_Sorrow,_and_Thorn)
+- [The Dragonbone Chair](https://www.goodreads.com/book/show/91981.The_Dragonbone_Chair) [3.95]
+- [Stone of Farewell](https://www.goodreads.com/book/show/28689.Stone_of_Farewell) [4.08]
+- [To Green Angel Tower](https://www.goodreads.com/book/show/28691.To_Green_Angel_Tower) [4.19]
+
 #### [Mistborn](https://en.wikipedia.org/wiki/Mistborn_series) _by [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson)_ [4.4]
 
 The Mistborn trilogy (well, he plans on doing a trilogy of trilogies, and the last 2 of the 2nd trilogy are due out in the next year or so) is probably his best known and a great read, too. I would recommend all of his stuff, but I think the original Mistborn is probably the best place to start (for one, they're much shorter!). - [@CWSpear](https://github.com/CWSpear)
